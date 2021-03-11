@@ -88,7 +88,10 @@ A `dist` directory will be created, containing a browser version of this SDK.
 or use the CDN:
 
 ```html
-<script type="text/javascript" src=""></script>
+<script
+	type="text/javascript"
+	src="https://cdn.jsdelivr.net/npm/manycam-sdk@latest/dist/manycam.js"
+></script>
 ```
 
 Then the ManyCam SDK will be available under the `ManyCamSDK` variable:
